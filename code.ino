@@ -7,8 +7,8 @@
 // 1. WIFI + FIREBASE CONFIGURATION
 // =================================================
 
-const char* WIFI_SSID = "VR";
-const char* WIFI_PASSWORD = "135792468";
+const char* WIFI_SSID = "WIFI-NAME";
+const char* WIFI_PASSWORD = "WIFI-PASSWORD";
 
 const char* FIREBASE_URL =
   "https://dockbot-command-center-default-rtdb.asia-southeast1.firebasedatabase.app/dockbot/live.json";
